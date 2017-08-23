@@ -1,0 +1,21 @@
+{
+  "name": "alexchizhovcom/tinymce",
+  "description": "TinyMCE Yii2 Framework Extension",
+  "type": "yii2-extension",
+  "keywords": ["tinymce","wysiwyg","yii2","yii","input"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alex Chizhov",
+      "email": "ac@alexchizhov.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "alexchizhovcom\\tinymce\\": ""
+    }
+  }
+}
