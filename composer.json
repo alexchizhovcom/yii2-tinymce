@@ -1,4 +1,16 @@
 {
+<<<<<<< HEAD
+  "name": "alexchizhovcom/yii2-tinymce",
+  "description": "TinyMCE Yii2 Framework Extension",
+  "type": "yii2-extension",
+  "keywords": ["tinymce","wysiwyg","yii2","yii","input"],
+  "license": "mit",
+  "authors": [
+    {
+      "name": "Alex Chizhov",
+      "email": "ac@alexchizhov.com",
+      "homepage": "http://alexchizhov.com"
+=======
   "name": "alexchizhovcom/tinymce",
   "description": "TinyMCE Yii2 Framework Extension",
   "type": "yii2-extension",
@@ -8,6 +20,7 @@
     {
       "name": "Alex Chizhov",
       "email": "ac@alexchizhov.com"
+>>>>>>> fc6a95db8760e87e46ffc3bee23bd4252fbf3308
     }
   ],
   "require": {
@@ -15,7 +28,11 @@
   },
   "autoload": {
     "psr-4": {
+<<<<<<< HEAD
+      "alexchizhovcom\\tinymce\\": "src/"
+=======
       "alexchizhovcom\\tinymce\\": ""
+>>>>>>> fc6a95db8760e87e46ffc3bee23bd4252fbf3308
     }
   }
 }
